@@ -1,1 +1,3 @@
 # IoT_DriftMitigation
+
+We are aiming to apply adaptive machine learning to IoT datastream by detecting and mitigating drifts. We would inject drifts in the dataset and also create live data streams of the dataset to analyze its performance. The project uses online machine learning which is based on Tree algorithms like Random Forest, XG Boost, Cat Boost, and Extra Tree. We are going to tune the hyperparameters of the tree-based algorithms. The purpose of the project is to predict whether the IoT devices are vulnerable or benign and also reduce the computational power required during training and testing the models by using different nature-inspired meta-heuristic optimizers.
